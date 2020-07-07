@@ -1,2 +1,3 @@
 Hello world
-My name olawumi
+My name is olawumi
+I have been learning about GIT
